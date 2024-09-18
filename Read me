@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+ <header>
+        <h1>Welcome to Thomas J. Watson's Tribute Page </h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="bio.html">Biography</a></li>
+                <li><a href="significance.html">Significance</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>About Thomas J. Watson</h2>
+            <p>Thomas J. Watson was a pioneering figure in computing and IBM...</p>
+        </section>
+    </main>
+</body>
+</html>
