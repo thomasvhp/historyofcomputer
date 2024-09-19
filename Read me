@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title> Thomas J Watson </title>
-</head>
-<body>
-        <h1>Welcome to Thomas J. Watson's Tribute Page </h1>
+    <head>
+        <title>Arches National Park</title>
+    </head>
+    
+    <body>
+        <h1>Welcome to National Park Information Page</h1>
         
         <hr>
         <a href="https://www.utah.com/destinations/national-parks/arches-national-park">
             Arches National Park
         <img src ="https://codehs.com/images/arches-ntnl-park" </a>
-        <hr>
-            <h2>About Thomas J. Watson</h2>
-            <p>Thomas J. Watson was a pioneering figure in computing </p>
-</body>
+ 
+    </body>
 </html>
