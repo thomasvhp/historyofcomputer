@@ -1,3 +1,15 @@
-h1 {
-  color: #4286f4;
+<link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+        <style>
+            /* To-do: Insert CSS here */
+        h1 {
+            font-family: 'Lobster', cursive;
+            color: #4286f4;
+        }
+          div {
+  background: linear-gradient(#FFFFFF, #0000FF, #FF0000);
+  height: 1000px;
+  width: 1000px;
 }
+        </style>
